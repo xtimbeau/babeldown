@@ -1,0 +1,12 @@
+---
+title: Dollar
+description: a bug in babeldown?
+---
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg/1200px-US_one_dollar_bill%2C_obverse%2C_series_2009.jpg" title="1 dollar note  >}}
+
+an equation in line :  a = b + c$ is ok
+
+but $a$ a one-character equation is not!
+
+

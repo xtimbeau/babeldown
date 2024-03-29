@@ -1,0 +1,10 @@
+---
+title: "Dollar"
+description: "un bug dans babeldown ?"
+---
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/US_one_dollar_bill%2C_obverse%2C_series_2009.jpg/1200px-US_one_dollar_bill%2C_obverse%2C_series_2009.jpg" title="Billet de 1 dollar" >}}
+
+une équation en ligne : $a = b + c$ est ok
+
+mais $a$ une équation à un caractère non !
